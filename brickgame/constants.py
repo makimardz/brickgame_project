@@ -60,8 +60,8 @@ FONT_SMALL = 18
 FONT_LARGE = 100
 
 # SOUND
-BRICKS_0_MUSIC = "tetris/assets/sounds/0_tetris.mid"
-BRICKS_1_MUSIC = "tetris/assets/sounds/1_tetris.mid"
+BRICKS_0_MUSIC = "brickgame/assets/sounds/0_tetris.mid"
+BRICKS_1_MUSIC = "brickgame/assets/sounds/1_tetris.mid"
 
 # ********* TEXT *********
 ALIGN_CENTER = 0
